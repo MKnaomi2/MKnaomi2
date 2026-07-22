@@ -34,12 +34,17 @@ python -m unittest discover -s tests -v
 - **[Wadevo Finance](https://app.wadevo.com)** — a live React, TypeScript,
   Express, and PostgreSQL product with a deterministic attention engine and a
   bounded natural-language interface. Private source; hiring walkthrough available.
+- **[Wadevo Design](https://design.wadevo.com)** — a live, constrained sampler
+  for AI-assisted brand exploration. Public examples and guided exploration are
+  open; private studios, generation APIs, and spend-bearing model routes remain
+  protected.
 - **Healthspan** — an access-controlled iPhone, watchOS, API, worker, and web
   prototype built around provenance, coverage, confidence, and explicit health
   claim boundaries. Private source; walkthrough available.
-- **Hermes** — a personal agent lab with scoped tools, explicit local/frontier
-  routing, reviewed memory, evidence gates, health checks, and recoverable state.
-  Private lab; architecture walkthrough available.
+- **Hermes** — a native-Windows multi-agent appliance with 12 isolated role
+  profiles, per-profile models, tools, state and authority, durable Kanban
+  handoffs, and a 400-note canonical Obsidian continuity layer. Private lab;
+  sanitized system card and architecture walkthrough available.
 
 ## Engineering principles
 
